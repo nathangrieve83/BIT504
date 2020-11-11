@@ -1,7 +1,7 @@
 import java.awt.Graphics;
 
 public class Ball extends Sprite {
-
+// here is an added comment 
 	private int xVelocity = 1, yVelocity = -1;
 	
 	public Ball() {
